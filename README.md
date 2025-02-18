@@ -1,4 +1,4 @@
-<img width="785" alt="image" src="https://github.com/user-attachments/assets/0d6aab79-1f9a-4b4a-965a-715bda668b4f" /># Pseudocode Exercise 8 Function and Procedure
+# Pseudocode Exercise 8 Function and Procedure
 
 ---
 
@@ -9,8 +9,8 @@ In general, the factorial of n is n × (n−1) × ... × 2 × 1 <br /><br/>
 For example, the factorial of 5 is 5 × 4 × 3 × 2 × 1 = 120 <br /><br/>
 In this question, n will be referred to as the BaseNumber.
 A function FindBaseNumber() will: <br /><br/>
-• be called with a positive, non-zero integer value as a parameter
-• return BaseNumber if the parameter value is the factorial of the BaseNumber
+• be called with a positive, non-zero integer value as a parameter<br/>
+• return BaseNumber if the parameter value is the factorial of the BaseNumber<br/>
 • return −1 if the parameter value is not a factorial. <br /><br/>
 <img width="785" alt="image" src="https://github.com/user-attachments/assets/d55dcf0f-cd79-4513-8677-53fa01aec962" />
 
