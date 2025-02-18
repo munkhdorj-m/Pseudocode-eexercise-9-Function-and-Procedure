@@ -1,14 +1,19 @@
-# Pseudocode Exercise 8 Function and Procedure
+<img width="785" alt="image" src="https://github.com/user-attachments/assets/0d6aab79-1f9a-4b4a-965a-715bda668b4f" /># Pseudocode Exercise 8 Function and Procedure
 
 ---
 
 ## Exercise 1
 
-Write a procedure to output how many odd and event digit given number have.
+The factorial of an integer number is the product of all the integers from that number down to 1. <br /><br/>
+In general, the factorial of n is n × (n−1) × ... × 2 × 1 <br /><br/>
+For example, the factorial of 5 is 5 × 4 × 3 × 2 × 1 = 120 <br /><br/>
+In this question, n will be referred to as the BaseNumber.
+A function FindBaseNumber() will: <br /><br/>
+• be called with a positive, non-zero integer value as a parameter
+• return BaseNumber if the parameter value is the factorial of the BaseNumber
+• return −1 if the parameter value is not a factorial. <br /><br/>
+<img width="785" alt="image" src="https://github.com/user-attachments/assets/d55dcf0f-cd79-4513-8677-53fa01aec962" />
 
-    Example:
-    Input: "12345"
-    Output: "Odd digit: 3, Even digit: 2"
 
 ## Exercise 2
 
