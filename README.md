@@ -23,13 +23,13 @@ For example, 7 is prime number so it will return TRUE.
 
 ## Exercise 3
 
-A string is a palindrome if it reads the same forwards as backwards.<br/>
-The following strings are examples of palindromes:<br/>
+A string is a palindrome if it reads the same forwards as backwards.<br/><br/>
+The following strings are examples of palindromes:<br/><br/>
 "Racecar"<br/>
 "madam"<br/>
-"12344321"<br/>
+"12344321"<br/><br/>
 Upper-case and lower-case characters need to be treated the same. For example, 'A' is equivalent to 'a'.<br/>
-A function IsPalindrome() will take a string parameter. The function will return TRUE if the string is a palindrome and will return FALSE if the string is not a palindrome.<br/>
+A function IsPalindrome() will take a string parameter. The function will return TRUE if the string is a palindrome and will return FALSE if the string is not a palindrome.<br/><br/>
 Write pseudocode for IsPalindrome().
 
 
